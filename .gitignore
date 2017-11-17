@@ -1,3 +1,7 @@
-/Output/
-/jre/
+/Output/*
+!/Output/.gitignore
+/jre/windows/x86
+!/jre/windows/x86/.gitignore
+/jre/windows/x64
+!/jre/windows/x64/.gitignore
 /run/JIntellitype.dll
